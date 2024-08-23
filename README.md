@@ -1,2 +1,3 @@
 # 23CSBTB29
 https://github.com/AkshithaNampalli/23CSBTB29/blob/main/arraysort.ipynb
+https://github.com/AkshithaNampalli/23CSBTB29/blob/main/LAB_ASSIGNMENT2.ipynb
