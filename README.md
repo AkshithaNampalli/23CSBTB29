@@ -8,3 +8,5 @@ https://github.com/AkshithaNampalli/23CSBTB29/blob/main/AIML_LAB6.ipynb
 https://github.com/AkshithaNampalli/23CSBTB29/blob/main/Untitled7.ipynb
 https://github.com/AkshithaNampalli/23CSBTB29/blob/main/untitled8.ipynb
 https://github.com/AkshithaNampalli/23CSBTB29/blob/main/%20Lab%20exam
+https://github.com/AkshithaNampalli/23CSBTB29/blob/main/Untitled_9_ipynb.ipynb
+
